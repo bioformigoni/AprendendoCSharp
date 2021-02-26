@@ -12,8 +12,8 @@ namespace _1_PrimeiroProjeto
         {
             Console.WriteLine("Olá, mundo. Projeto no Visual Studio!");
 
-            Console.WriteLine("A execução acabou. Tecle enter para finalizar...");
-
+            Console.WriteLine("");
+            Console.WriteLine("A execução acabou. Tecle ENTER para finalizar...");
             Console.ReadLine();
         }
     }
